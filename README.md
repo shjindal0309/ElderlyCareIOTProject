@@ -1,2 +1,3 @@
 # ElderlyCareIOTProject
 I made elderly care project during our acadmics course CS321. In this project I am automatically turning off and on heater or AC whichever is required according to the current temperature. I am also alerting elderly persons relatives, if he falls. I am alerting the elderly person at fixed interval of 6 hours using buzzer and LED to take medicines. Simulation of heater and AC is done using LEDs. I am also continuously recording the elder person heartbeat rate. If the heartbeat falls below a range or becomes too high I am sending the alert to his/her relatives. Using pi we sent data to server.
+Watch1 and watch2 contains code for the 2 arduinos used.
